@@ -1,9 +1,9 @@
 #Android
 
 ###android系统设计
+
 - binder设计模式
 - Fragment
-- 
 
 ###UI
 
