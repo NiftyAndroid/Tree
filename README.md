@@ -1,32 +1,50 @@
-Android
-android系统设计
+#Android
 
-binder设计模式
+###android系统设计
+- binder设计模式
 - Fragment
+- 
 
-UI
+###UI
 
-自定义View
-手势操作
-ListView源码分析
-网络
+- 自定义View
+- 手势操作
+- ListView源码分析
 
-Http的ETAG+TTL
-...
-socket
-数据存储
+###网络
 
-文件
-数据库
-多媒体
+- Http的ETAG+TTL
+- ...
+- socket
 
-MediaPlayer
-Camera
-线程
+###数据存储
 
-Project
+- 文件
+- 数据库
 
-others
-Gradle
 
-开发环境
+###多媒体
+
+- MediaPlayer
+- Camera
+
+
+###线程
+
+
+###Project
+
+
+
+#others
+
+###Gradle
+
+###开发环境
+
+
+
+
+
+
+
